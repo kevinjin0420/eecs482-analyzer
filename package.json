@@ -1,7 +1,7 @@
 {
 	"name": "eecs482-testcase-parser",
 	"version": "1.0.0",
-	"description": "Marks which EECS 482 student test cases are essential, which are redundant, and which fail your own implementation.",
+	"description": "Summarizes EECS 482 autograder results.",
 	"private": true,
 	"scripts": {
 		"build": "rm -rf dist && mkdir -p dist/src && cp -r public/* dist/ && cp -r src/* dist/src/ && node -e \"const m=require('./dist/manifest.json');const p=require('./package.json');m.version=p.version;require('fs').writeFileSync('./dist/manifest.json',JSON.stringify(m,null,'\t')+'\\n')\"",

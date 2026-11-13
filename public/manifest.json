@@ -2,7 +2,7 @@
 	"manifest_version": 3,
 	"name": "EECS 482 Test Suite Analyzer",
 	"version": "1.0.0",
-	"description": "Marks which student test cases are essential, which are redundant, and which fail your own implementation.",
+	"description": "Summarizes EECS 482 autograder results.",
 	"content_scripts": [
 		{
 			"matches": [
