@@ -1,0 +1,27 @@
+submitted by calv (branch noguard)
+Project 2 (thread library)
+
+grading student test cases (using instructor buggy thread libraries)
+------ grading student test case test1.cpp ------
+hint: test case compiled with student thread library generated incorrect output (output line 8)
+student test case test1.cpp exposed the following instructor buggy thread libraries: ABCEFHIJQ
+------ grading student test case test2.cpp ------
+student test case test2.cpp exposed the following instructor buggy thread libraries: AB
+------ grading student test case test3.cpp ------
+student test case test3.cpp exposed the following instructor buggy thread libraries: ABEFOQ
+------ grading student test case test4.cpp ------
+student test case test4.cpp exposed the following instructor buggy thread libraries: ABEFHIJ
+------ grading student test case test5.cpp ------
+student test case test5.cpp exposed the following instructor buggy thread libraries: ABFHIJ
+------ grading student test case test6.cpp ------
+student test case test6.cpp exposed the following instructor buggy thread libraries: ABEFHIJ
+------ grading student test case test7.cpp ------
+student test case test7.cpp exposed the following instructor buggy thread libraries: ABEFHIK
+------ grading student test case test8.cpp ------
+student test case test8.cpp exposed the following instructor buggy thread libraries: ABNQ
+------ grading student test case test9.cpp ------
+student test case test9.cpp exposed the following instructor buggy thread libraries: AB
+
+student test suite exposed 12 of the 17 instructor buggy thread libraries: ABCEFHIJKNOQ (8 out of 10 points)
+
+Hint: the following student test cases exposed the student thread library as buggy: test1.cpp

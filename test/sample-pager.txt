@@ -1,0 +1,65 @@
+submitted by calv (branch corebackup)
+Project 3 (pager)
+
+grading student test cases (using instructor buggy pagers)
+------ grading student test case test0.4.cpp ------
+student test case test0.4.cpp exposed the following instructor buggy pagers: hm
+------ grading student test case test1.4.cpp ------
+hint: student pager generated incorrect output or memory data (output line 16)
+student test case test1.4.cpp exposed the following instructor buggy pagers: Wl
+------ grading student test case test10.4.cpp ------
+student test case test10.4.cpp exposed the following instructor buggy pagers: ACDFGJOPTYn
+------ grading student test case test11.4.cpp ------
+hint: student pager generated incorrect output or memory data (output line 54)
+student test case test11.4.cpp exposed the following instructor buggy pagers: ACDHLOPTUVWXYehikmn
+------ grading student test case test12.4.cpp ------
+hint: student pager generated incorrect output or memory data (output line 26)
+student test case test12.4.cpp exposed the following instructor buggy pagers: CDKOPSTUVWXYZabcefhilm
+------ grading student test case test13.4.cpp ------
+student test case test13.4.cpp exposed the following instructor buggy pagers: Whkm
+------ grading student test case test14.4.cpp ------
+student test case test14.4.cpp exposed the following instructor buggy pagers: Wk
+------ grading student test case test15.4.cpp ------
+hint: student pager generated incorrect output or memory data (output line 55)
+student test case test15.4.cpp exposed the following instructor buggy pagers: CDGJOPUVWXYehkm
+------ grading student test case test16.4.cpp ------
+student test case test16.4.cpp exposed the following instructor buggy pagers: CDHOPQUWXYZcdhikm
+------ grading student test case test2.4.cpp ------
+hint: student pager generated incorrect output or memory data (output line 16)
+student test case test2.4.cpp exposed the following instructor buggy pagers: Wl
+------ grading student test case test20.4.cpp ------
+student test case test20.4.cpp exposed the following instructor buggy pagers: ACDFGJOPTYn
+------ grading student test case test21.4.cpp ------
+student test case test21.4.cpp exposed the following instructor buggy pagers: bcfhim
+------ grading student test case test22.4.cpp ------
+student test case test22.4.cpp exposed the following instructor buggy pagers: CDOPY
+------ grading student test case test23.4.cpp ------
+student test case test23.4.cpp exposed the following instructor buggy pagers: Wk
+------ grading student test case test24.4.cpp ------
+student test case test24.4.cpp exposed the following instructor buggy pagers: h
+------ grading student test case test25.4.cpp ------
+student test case test25.4.cpp exposed the following instructor buggy pagers: h
+------ grading student test case test26.4.cpp ------
+student test case test26.4.cpp exposed the following instructor buggy pagers: cdfh
+------ grading student test case test27.4.cpp ------
+student test case test27.4.cpp exposed the following instructor buggy pagers: ACDHLOPTYhmn
+------ grading student test case test3.4.cpp ------
+hint: student pager generated incorrect output or memory data (output line 20)
+student test case test3.4.cpp exposed the following instructor buggy pagers: QSWdhilm
+------ grading student test case test4.4.cpp ------
+student test case test4.4.cpp exposed the following instructor buggy pagers: CDOPVWYk
+------ grading student test case test5.4.cpp ------
+student test case test5.4.cpp exposed the following instructor buggy pagers: ACDMOPUVWXYkn
+------ grading student test case test6.4.cpp ------
+student test case test6.4.cpp exposed the following instructor buggy pagers: CDOPYo
+------ grading student test case test7.4.cpp ------
+hint: student pager generated incorrect output or memory data (output line 1788)
+student test case test7.4.cpp exposed the following instructor buggy pagers: CDKMOPVWYl
+------ grading student test case test8.4.cpp ------
+student test case test8.4.cpp exposed the following instructor buggy pagers: Qdfhm
+------ grading student test case test9.4.cpp ------
+student test case test9.4.cpp exposed the following instructor buggy pagers: Nh
+
+student test suite exposed 35 of the 46 instructor buggy pagers: ACDFGHJKLMNOPQSTUVWXYZabcdefhiklmno (8 out of 10 points)
+
+Hint: the following student test cases exposed the student pager as buggy: test1.4.cpp test11.4.cpp test12.4.cpp test15.4.cpp test2.4.cpp test3.4.cpp test7.4.cpp

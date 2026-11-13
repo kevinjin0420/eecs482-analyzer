@@ -1,0 +1,120 @@
+submitted by calv (branch main)
+Project 2 (thread library)
+
+grading student test cases (using instructor buggy thread libraries)
+------ grading student test case test1.cpp ------
+student test case test1.cpp is invalid: caused error using solution thread library: process exited with error (output line 3)
+------ grading student test case test2.cpp ------
+student test case test2.cpp is invalid: caused error using solution thread library: process exited with error (output line 1)
+------ grading student test case test3.cpp ------
+student test case test3.cpp exposed the following instructor buggy thread libraries: ABEFOQ
+------ grading student test case test4.cpp ------
+student test case test4.cpp exposed the following instructor buggy thread libraries: ABQ
+------ grading student test case test5.cpp ------
+student test case test5.cpp is invalid: caused error using solution thread library: process used too much memory (output line 1)
+
+student test suite exposed 6 of the 17 instructor buggy thread libraries: ABEFOQ (3 out of 10 points)
+
+grading student thread library (using instructor test cases)
+------------------------- 0 -------------------------
+perfect!
+------------------------- 1 -------------------------
+perfect!
+------------------------- 2 -------------------------
+process generated incorrect output (output line 7)
+------------------------- 3 -------------------------
+perfect!
+------------------------- 4 -------------------------
+process took too much CPU time (output line 42)
+------------------------- 5 -------------------------
+process exited with error (output line 200)
+------------------------- 6 -------------------------
+process took too much CPU time (output line 3)
+------------------------- 7 -------------------------
+process took too much CPU time (output line 4)
+------------------------- 8 -------------------------
+process took too much CPU time (output line 4)
+------------------------- 9 -------------------------
+process took too much CPU time (output line 6)
+------------------------- 10 -------------------------
+process took too much CPU time (output line 5)
+------------------------- 11 -------------------------
+process took too much CPU time (output line 5)
+------------------------- 12 -------------------------
+perfect!
+------------------------- 13 -------------------------
+perfect!
+------------------------- 14 -------------------------
+process took too much CPU time (output line 8)
+------------------------- 15 -------------------------
+perfect!
+------------------------- 16 -------------------------
+process generated incorrect output (output line 9)
+------------------------- 17 -------------------------
+process took too much CPU time (output line 20007)
+------------------------- 18 -------------------------
+process took too much CPU time (output line 40)
+------------------------- 19 -------------------------
+process generated incorrect output (output line 18)
+------------------------- 20 -------------------------
+process exited with error (output line 10)
+------------------------- 21 -------------------------
+process exited with error (output line 7)
+------------------------- 22 -------------------------
+perfect!
+------------------------- 23 -------------------------
+process took too much CPU time (output line 1)
+------------------------- 24 -------------------------
+process took too much CPU time (output line 1)
+------------------------- 25 -------------------------
+process took too much CPU time (output line 2002)
+------------------------- 26 -------------------------
+perfect!
+------------------------- 27 -------------------------
+perfect!
+------------------------- 28 -------------------------
+process took too much CPU time (output line 1)
+------------------------- 29 -------------------------
+process exited with error (output line 2)
+------------------------- 30 -------------------------
+process took too much CPU time (output line 1)
+------------------------- 31 -------------------------
+process took too much CPU time (output line 1)
+------------------------- 32 -------------------------
+process took too much CPU time (output line 1)
+------------------------- 33 -------------------------
+process took too much CPU time (output line 1)
+------------------------- 34 -------------------------
+process took too much CPU time (output line 1)
+------------------------- 35 -------------------------
+process took too much CPU time (output line 1)
+------------------------- 36 -------------------------
+process took too much CPU time (output line 1)
+------------------------- 37 * -----------------------
+process exited with error (output line 1)
+------------------------- 38 * -----------------------
+process exited with error (output line 1)
+------------------------- 39 * -----------------------
+process exited with error (output line 1)
+------------------------- 40 * -----------------------
+process exited with error (output line 1)
+------------------------- 41 * -----------------------
+process exited with error (output line 1)
+------------------------- 42 * -----------------------
+process exited with error (output line 1)
+------------------------- 43 * -----------------------
+process exited with error (output line 1)
+------------------------- 44 * -----------------------
+process exited with error (output line 1)
+------------------------- 45 * -----------------------
+process exited with error (output line 1)
+------------------------- 46 * -----------------------
+process exited with error (output line 1)
+------------------------- 47 * -----------------------
+process exited with error (output line 1)
+
+9 out of 37 core test cases
+0 out of 11 advanced test cases
+
+** Score for core thread library and test suite: 20 out of 80 points
+** Score for advanced features: 0 out of 80 points
