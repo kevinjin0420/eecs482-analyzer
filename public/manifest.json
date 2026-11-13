@@ -3,6 +3,9 @@
 	"name": "EECS 482 Test Suite Analyzer",
 	"version": "1.0.0",
 	"description": "Summarizes EECS 482 autograder results.",
+	"icons": {
+		"128": "icon.png"
+	},
 	"content_scripts": [
 		{
 			"matches": [
